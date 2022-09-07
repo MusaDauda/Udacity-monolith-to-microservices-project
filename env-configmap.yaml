@@ -9,4 +9,4 @@ data:
   AWS_PROFILE: default
   AWS_S3_BUCKET: arn:aws:s3:::udagram-microservice-664965882676
   JWT_SECRET: testing1234
-  #URL: https://306DF5B808C9F212F177DEF143B69184.gr7.us-east-1.eks.amazonaws.com:8100
+  URL: https://4732515F24D1A8603BD814EABF859EE2.gr7.us-east-2.eks.amazonaws.com:8100
