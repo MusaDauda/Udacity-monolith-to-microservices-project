@@ -39,4 +39,4 @@ kubectl logs {pod_name}
 ![frontend logs](02-frontend-logs-sreenshots.png)
 ![backend feeds logs](backend-feed-logs-sreenshots.png)
 ![backend users logs](backend-user-logs-sreenshots.png)
-![reverse proxy logs](reverseproxy-logs-sreenshots.png)
+![reverse proxy logs output](reverseproxy-logs-sreenshots.png)
