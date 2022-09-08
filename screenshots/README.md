@@ -28,9 +28,11 @@ kubectl describe services
 ```bash
 kubectl describe hpa
 ```
-![kubectl describe hpa outputs](describe-hpa-01.png)
-![kubectl describe hpa outputs](describe-hpa-02.png)
-![kubectl describe hpa outputs](describe-hpa-03.png)
+![kubectl describe hpa outputs](03-kubectl-describe-hpa-outputspng.png)
+![kubectl describe hpa outputs](01-kubectl-describe-hpa-outputspng.png)
+
+![kubectl describe hpa outputs](02-kubectl-describe-hpa-outputspng.png)
+
 * To verify that you have set up logging with a backend application
 ```bash
 kubectl logs {pod_name}
